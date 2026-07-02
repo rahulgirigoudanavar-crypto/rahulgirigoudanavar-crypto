@@ -1,4 +1,21 @@
-# 💫 Hi 👋, I'm Rahul Girigoudanavar
+# Hi 👋, I'm Rahul Girigoudanavar
+
+<h3 align="center">
+🚀 Software Engineer specializing in Java Full Stack Development | ☁️ AWS & DevOps Enthusiast | 🤖 AI Builder
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00F72D&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;React.js+%7C+JavaScript+%7C+MySQL;AWS+%7C+Linux+%7C+Docker+%7C+Kubernetes;Jenkins+%7C+Terraform+%7C+GitHub+Actions;Currently+Building+CareerGPT;Open+to+Software+Developer+Roles" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=rahulgirigoudanavar&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-Java%20Developer-brightgreen"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-Full%20Stack-blue"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-DevOps-orange"/>
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -69,6 +86,13 @@
 
 ---
 
+# 🏆 Certifications
+
+- ☕ **Java Full Stack Development** — JSpiders, Bengaluru (2026)
+- ☁️ **AWS Solutions Architect – Associate** — Visvesvaraya Technological University (VTU) under Swatantra Amrutha Mahotsav Mannade Yojane (2025)
+
+---
+
 # 💻 Tech Stack
 
 ## 👨‍💻 Programming Languages
@@ -128,31 +152,29 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sushantindi&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulgirigoudanavar-crypto&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgirigoudanavar-crypto&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rahulgirigoudanavar-crypto&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 Contribution Graph
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sushantindi&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantindi&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulgirigoudanavar-crypto&theme=tokyo-night" />
 </p>
 
 ---
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantindi&theme=tokyonight"/>
-</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
