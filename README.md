@@ -1,17 +1,26 @@
 # 💫 Hi 👋, I'm Rahul Girigoudanavar
 
-**A passionate Java Full Stack Developer | Spring Boot | React | AI Enthusiast from India**
+## 👨‍💻 About Me
 
-📧 Email Me 👉 **[rahulgirigoudanavar@gmail.com](mailto:rahulgirigoudanavar@gmail.com)** for collaboration, projects, or professional opportunities.
+🎓 Electronics & Communication Engineering Graduate 
 
-* 🔭 **I’m currently working on:** Full Stack Web Applications using Java, Spring Boot, and React
-* 🌱 **I’m currently learning:** AI Integration, AWS Cloud Services, and Microservices Architecture
-* 👯 **I’m looking to collaborate on:** Full Stack Development and AI-powered Applications
-* 🤔 **I’m looking for help with:** Advanced Cloud and AI Solutions
-* 💬 **Ask me about:** Java, Spring Boot, React, REST APIs, SQL, AWS, and AI Tools
-* 📫 **How to reach me:** [rahulgirigoudanavar@gmail.com](mailto:rahulgirigoudanavar@gmail.com)
-* 😄 **Pronouns:** He/Him
-* ⚡ **Fun fact:** I enjoy building scalable applications and exploring how AI can make software smarter.
+💻 Software Engineer specializing in Java Full Stack Development
+
+☕ Skilled in Java, Spring Boot, Hibernate (JPA), JDBC, Servlets, JSP, HTML, CSS, JavaScript, React.js & SQL
+
+☁️ Learning Cloud & DevOps with AWS, Linux, Git, GitHub, Docker and Kubernetes
+
+🚀 Currently building **CareerGPT**, an AI-powered Career Assistant for personalized job recommendations
+
+📚 Continuously improving my skills in System Design, Data Structures & Algorithms, Microservices and Cloud Technologies
+
+💬 Ask me about Java, Spring Boot, JavaScript, React, SQL, Git, GitHub, AWS and DevOps
+
+🌱 Always exploring new technologies and contributing to real-world projects
+
+📫 Reach me at: **rahulgirigoudanavar@gmail.com**
+
+⚡ Fun Fact: I enjoy turning ideas into real-world applications and continuously learning new technologies.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rahul_girigoudanavar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul_rg_18_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulgirigoudanavar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulgirigoudanavar@gmail.com) 
